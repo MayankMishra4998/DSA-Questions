@@ -11,7 +11,7 @@ This repo contains a collection of **DSA problems** and their **solutions implem
   - Problem statement (short description)
   - Approach/logic explanation
   - Optimized C++ code
-- 🎯 Focused on **interview preparation** and **competitive programming**
+- 🎯 Focused on **interview preparation** & **competitive programming**
 
 ---
 
